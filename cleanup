@@ -4,8 +4,8 @@
 
 echo 'delete all personal posts and pages'
 
-rm _posts/*
+git rm _posts/*
 
-rm apps.html favicon.ico google*.html links.html national-parks.html search.html
+git rm apps.html favicon.ico google*.html links.html national-parks.html search.html
 
 echo 'done!'
