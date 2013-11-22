@@ -4,7 +4,7 @@ redcarpet:
 permalink: /:year/:month/:day/:title 
 title: King Jin
 url: http://jinhe1314.github.io
-githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
+githubEditBaseURL: https://github.com/jinhe1314/jinhe1314.github.com/edit/master/
 subscribe: http://jinhe1314.github.io/atom.xml
 exclude: [ README.md, newpost.rb ]
 domain: jinhe1314.github.io
