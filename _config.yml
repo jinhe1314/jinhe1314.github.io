@@ -2,15 +2,15 @@ markdown: redcarpet
 redcarpet:
   extensions: ["autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
-title: Tao Zhang
-url: http://ztpala.com
+title: King Jin
+url: http://jinhe1314.github.io
 githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
-subscribe: http://ztpala.com/atom.xml
+subscribe: http://jinhe1314.github.io/atom.xml
 exclude: [ README.md, newpost.rb ]
-domain: ztpala.com
-author: Tao Zhang
-email: ztpala+blog@gmail.com
-twitterID: ztpala
+domain: jinhe1314.github.io
+author: King Jin
+email: gojinhe@gmail.com
+twitterID: jinhe1314
 googleAnalyticsID: UA-5531632-1
-disqusShortname: ztpala
+disqusShortname: jinhe1314
 timezone: America/New_York
