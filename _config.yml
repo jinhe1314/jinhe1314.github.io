@@ -4,7 +4,7 @@ redcarpet:
 permalink: /:year/:month/:day/:title 
 title: King Jin
 url: http://jinhe1314.github.io
-img_url: http://jiyeqian.github.com/assets/images
+img_url: http://jinhe1314.github.io/assets/images
 githubEditBaseURL: https://github.com/jinhe1314/jinhe1314.github.com/edit/master/
 subscribe: http://jinhe1314.github.io/atom.xml
 exclude: [ README.md, newpost.rb ]
